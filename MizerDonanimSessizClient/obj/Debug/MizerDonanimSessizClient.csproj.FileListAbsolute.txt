@@ -1,0 +1,10 @@
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\bin\Debug\MizerDonanimSessizClient.exe.config
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\bin\Debug\MizerDonanimSessizClient.exe
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\bin\Debug\MizerDonanimSessizClient.pdb
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.Form1.resources
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.Properties.Resources.resources
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.csproj.GenerateResource.cache
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.exe
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.pdb
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.csproj.AssemblyReference.cache
+C:\Users\mucah\source\repos\MizerDonanimSessizClient\MizerDonanimSessizClient\obj\Debug\MizerDonanimSessizClient.csproj.CoreCompileInputs.cache

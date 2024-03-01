@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mucah\\source\\repos\\MizerDonanimSessizClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62699A1-121F-4BC0-A087-8F5D191D8E99}|MizerDonanimSessizClient\\MizerDonanimSessizClient.csproj|c:\\users\\mucah\\source\\repos\\mizerdonanimsessizclient\\mizerdonanimsessizclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62699A1-121F-4BC0-A087-8F5D191D8E99}|MizerDonanimSessizClient\\MizerDonanimSessizClient.csproj|solutionrelative:mizerdonanimsessizclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62699A1-121F-4BC0-A087-8F5D191D8E99}|MizerDonanimSessizClient\\MizerDonanimSessizClient.csproj|c:\\users\\mucah\\source\\repos\\mizerdonanimsessizclient\\mizerdonanimsessizclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A62699A1-121F-4BC0-A087-8F5D191D8E99}|MizerDonanimSessizClient\\MizerDonanimSessizClient.csproj|solutionrelative:mizerdonanimsessizclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\MizerDonanimSessizClient\\MizerDonanimSessizClient\\Form1.cs",
+              "RelativeDocumentMoniker": "MizerDonanimSessizClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\MizerDonanimSessizClient\\MizerDonanimSessizClient\\Form1.cs",
+              "RelativeToolTip": "MizerDonanimSessizClient\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T22:45:44.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\MizerDonanimSessizClient\\MizerDonanimSessizClient\\Form1.cs",
+              "RelativeDocumentMoniker": "MizerDonanimSessizClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\MizerDonanimSessizClient\\MizerDonanimSessizClient\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MizerDonanimSessizClient\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T22:45:37.21Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
