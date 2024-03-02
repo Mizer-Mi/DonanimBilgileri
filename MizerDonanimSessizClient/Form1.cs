@@ -53,6 +53,10 @@ namespace MizerDonanimSessizClient
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            try
+            {
+
+           
             #region İŞLEMCİ
             string clockSpeed = "";
             string procName = "";
@@ -213,7 +217,14 @@ namespace MizerDonanimSessizClient
             RAMmarkaTXT.Text = Ram_Bilgileri;
             RAM_BoyutTXT.Text = (Math.Round(Convert.ToDouble(BYTEMIZERGB(Convert.ToInt64(RAM)).Trim()), 1, MidpointRounding.AwayFromZero).ToString()) + " GB";
             HDDBOYUTTXT.Text = (Math.Round(Convert.ToDouble(BYTEMIZERGB(Convert.ToInt64(HDDBOYUTCEVIRICI)).Trim()), 0, MidpointRounding.AwayFromZero).ToString()) + " GB";
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+            }
         }
 
     }
+
 }
